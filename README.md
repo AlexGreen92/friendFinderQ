@@ -1,3 +1,3 @@
 # friendFinder
 https://desolate-island-91451.herokuapp.com
-Enter your name, link to a picture and answer all questions. The app will compare your scores and will give you the best match depending on answers. Deployed on Heroku. API, Bootstrap, MySQL.
+Enter your name, link to a picture and answer the questions. The app will compare your scores and will give you the best match depending on answers. Deployed on Heroku. API, Bootstrap, MySQL.
